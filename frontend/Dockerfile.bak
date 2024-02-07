@@ -1,6 +1,6 @@
 FROM node:16-alpine
 
-ENV VUE_APP_API_URL=http://todo-backend
+ENV VUE_APP_API_URL=http://103.179.31.31
 
 RUN mkdir /app
 
