@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL: process.env.VUE_APP_API_URL || "http://api-todo.apps.cluster-jkt03.ocp-dcb-s.datacomm.co.id",
+    baseURL: process.env.VUE_APP_API_URL || "http://103.179.31.31",
 });
