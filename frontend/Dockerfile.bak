@@ -1,6 +1,6 @@
 FROM node:16-alpine
 
-ENV VUE_APP_API_URL=http://api-todo.apps.cluster-jkt03.ocp-dcb-s.datacomm.co.id
+ENV VUE_APP_API_URL=http://todo-backend
 
 RUN mkdir /app
 
