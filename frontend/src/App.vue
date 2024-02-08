@@ -8,7 +8,7 @@
         ></v-img>
       </template>
 
-      <v-toolbar-title>Belajar Docker untuk Pemula - Todo App</v-toolbar-title>
+      <v-toolbar-title>Todo App</v-toolbar-title>
     </v-app-bar>
 
     <v-main>
